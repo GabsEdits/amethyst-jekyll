@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: amethyst-jekyll
+description: "A simple and clean theme, for any type of website!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
